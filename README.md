@@ -7,7 +7,7 @@
 
 A modern and responsive coffee shop website. A clean layout that stands out with its mobile compatible design and smooth animations.
 
-
+## preview
 
 ## ✨ Main Features
 - **Mobile Navigation**: Smooth sliding menu for mobile devices
